@@ -11,7 +11,7 @@ This is my custom-designed booster pedal for electric guitar. It adds clean gain
 - 2 modes for boosting
 
 ## 🧩 Schematic
-![Schematic](main/finalschematic-1.png)
+![Schematic](finalschematic-1.png)
 
 ## 🧰 Parts Used
 | Component | Value |
