@@ -11,7 +11,7 @@ This is my custom-designed booster pedal for electric guitar. It adds clean gain
 - 2 modes for boosting
 
 ## 🧩 Schematic
-![Schematic](images/finalschematic-1.png)
+![Schematic](main/finalschematic-1.png)
 
 ## 🧰 Parts Used
 | Component | Value |
@@ -24,7 +24,7 @@ This is my custom-designed booster pedal for electric guitar. It adds clean gain
 ## 🛠️ Build Process
 1. The original schematic of LPB-1 was learnt and used as a beginning reference.
    LPB-1 is a simple common emitter transistor amplifier with gain of approximately 25 dB without distorting the signal(clean boost).
-   ![LPB-1 schematic](images/lpb-1.png)
+   ![LPB-1 schematic](main/lpb-1.png)
     
    My goal was essentially to try this topology with another transistor - 2N3904. According to datasheets comparison, the original 2N5088 transistor has much greater possible gain, which is almost 3 times higher than of 2N3904.
    
