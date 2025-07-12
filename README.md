@@ -13,7 +13,7 @@ This is my custom-designed booster pedal for electric guitar. It adds clean gain
 ## Schematic
 ![Schematic](finalschematic-1.png)
 
-## 🧰 Parts Used
+## Parts Used
 | Component | Value |
 |----------|-------|
 | Transistor   | 2N3904 |
