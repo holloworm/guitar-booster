@@ -36,7 +36,7 @@ This is my custom-designed booster pedal for electric guitar. It adds clean gain
 5. The next step was building the pedal. Since it is relatively small project, the enclosure was chosen to be a small metal box. The layout was created on perf board and then wired to have true bypass 3PDT as well as SPDT switch was added to switch input capacitors.
    
 
-![Booster Pedal Photo](assembeledcircuit.jpg)
+![Booster Pedal Photo](assembledcircuit.jpg)
 
 
 
