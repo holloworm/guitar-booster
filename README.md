@@ -2,12 +2,9 @@
 Another look on EHX LPB-1 booster
 This is my custom-designed booster pedal for electric guitar. It adds clean gain with slight tone changes — great for solos or pushing an amp harder.
 
-![Booster Pedal Photo](pedal.jpg)
-
-
 
 ## Features
-- Solo boost
+- Solo and clean boost
 - 2 modes for boosting
 
 ## Schematic
