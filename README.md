@@ -42,9 +42,11 @@ This is my custom-designed booster pedal for electric guitar. It adds clean gain
 
 
 
+Final tests with other pedals like overdrive and distortion showed the boost of gain, which alters a sound a little bit, making it more compressed and making it easier to play single notes. However, there is no headroom, as it works well only when the boost potentiometer is maxed, which is obvious as by specifications, 3904 gives almost 3 times less possible gain than 5088. 
 
-## Demo Sound
+Therefore I will consider changing the transistor on 5088 as soon as I will get the opportunity.
 
+In addition, the 1uF cap was changed by 100uF cap after some research, as it works better for power noise filtering in pedals.
 
 ## License
 MIT License — free to use for personal/non-commercial projects.
