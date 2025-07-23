@@ -38,6 +38,8 @@ This is my custom-designed booster pedal for electric guitar. It adds clean gain
 
 ![Booster Pedal Photo](assembledcircuit.jpg)
 
+![Booster Pedal Photo](pedal.jpg)
+
 
 
 
